@@ -1,5 +1,4 @@
-(![image](https://github.com/user-attachments/assets/aeaef30e-7874-4815-9910-766e5d6f1fbd)
-)
+ <img height="200em" src=(https://github.com/user-attachments/assets/aeaef30e-7874-4815-9910-766e5d6f1fbd)
 
 # 🌸 Olá, me chamo Sophia Hochman!
 
