@@ -25,15 +25,17 @@ Currently focused on **game development, web development and data science**, I e
 
 ---
 
-## 🌟 Projetos em Destaque
+## 🌟Featured Projects
 
-🔹 [📌 Nome do Projeto 1](https://github.com/seuusuario/projeto1) - Pequena descrição do projeto.
-🔹 [📌 Nome do Projeto 2](https://github.com/seuusuario/projeto2) - Pequena descrição do projeto.
-🔹 [📌 Nome do Projeto 3](https://github.com/seuusuario/projeto3) - Pequena descrição do projeto.
+🔹 [📌 Projeto peixe](https://github.com/sophiahochman/projeto-peixe) - This was my first programming experience
+🔹 [📌 Passarinho da sophia](https://github.com/sophiahochman/passarinho-da-sophia) - My second experience with programming, the bird was already flying alone
+🔹 [📌 Ponderada 3](https://github.com/ophiahochman/ponderada_3) - In the game ponderada 4, I had a proposal to make a minigame of an alien that flew and picked up coins.
+🔹 [📌 Ponderada 4](https://github.com/ophiahochman/ponderada_4) - This was the first game we made without help in the first module of college, based on the last game, and my idea was a squirrel that had to eat the nuts to gain a score.
+
 
 ---
 
-## 🌍 Onde me encontrar
+## 🌍 Where to find me
 
 <div align="left">
   <a href="https://www.instagram.com/hp.sophi?igsh=MXU1czhzY3pidDk4Nw%3D%3D&utm_source=qr" target="_blank">
@@ -52,4 +54,4 @@ Currently focused on **game development, web development and data science**, I e
 
 ---
 
-> 🌱 "A tecnologia move o mundo, e eu estou pronta para fazer parte dessa evolução!" 🚀
+> 🌱 "Technology moves the world, and I'm ready to be part of this evolution!" 🚀
