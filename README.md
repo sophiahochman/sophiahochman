@@ -20,20 +20,16 @@ Currently focused on **game development, web development and data science**, I e
 🔹 **Tools**: Git, GitHub, VS Code, Figma
 🔹 **Learning**:Developing languages
 
-## 📊 My Stats on GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=radical" />
-</div>
-
 ---
 
 ## 🌟Featured Projects
 
 🔹 [📌 Projeto peixe](https://github.com/sophiahochman/projeto-peixe) - This was my first programming experience
+
 🔹 [📌 Passarinho da sophia](https://github.com/sophiahochman/passarinho-da-sophia) - My second experience with programming, the bird was already flying alone
+
 🔹 [📌 Ponderada 3](https://github.com/ophiahochman/ponderada_3) - In the game ponderada 4, I had a proposal to make a minigame of an alien that flew and picked up coins.
+
 🔹 [📌 Ponderada 4](https://github.com/ophiahochman/ponderada_4) - This was the first game we made without help in the first module of college, based on the last game, and my idea was a squirrel that had to eat the nuts to gain a score.
 
 
