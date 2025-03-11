@@ -3,7 +3,7 @@
 # 🌸 Hey, My name is Sophia!
 
 <div align="center">
-  <img src="(https://github.com/sophiahochman/sophiahochman/blob/main/Captura%20de%20tela%202025-03-11%20124832.png)" alt="SOPHIA" width="400"/>
+  <img src="https://github.com/sophiahochman/sophiahochman/blob/main/Captura%20de%20tela%202025-03-11%20124832.png" alt="SOPHIA" width="400"/>
 </div>
 
 I am a student of **Information Systems** at **INTELI**, passionate about technology and always looking to learn! 🚀
