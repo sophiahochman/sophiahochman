@@ -2,6 +2,10 @@
 
 # 🌸 Hey, My name is Sophia!
 
+<div align="center">
+  <img src="URL_DA_SUA_IMAGEM" alt="SOPHIA" width="400"/>
+</div>
+
 I am a student of **Information Systems** at **INTELI**, passionate about technology and always looking to learn! 🚀
 
 Currently focused on **game development, web development and data science**, I enjoy exploring new technologies and creating amazing projects.
