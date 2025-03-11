@@ -1,59 +1,46 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+![Banner](https://your-image-url.com/banner.png)
 
-###
+# 🌸 Olá, eu sou [Sophia Hochman]!
 
-<p align="left">My name is Sophia</p>
+Sou estudante de **[Sistemas da Informação]** na **[INTELI]**, apaixonada por tecnologia e sempre em busca de aprendizado! 🚀
 
-###
+Atualmente focada em **[desenvolvimento de jogos, web e ciência de dados ]**, gosto de explorar novas tecnologias e criar projetos incríveis. 
 
-<h2 align="left">✨ About me</h2>
+---
 
-###
+## 💻 Tecnologias e Ferramentas
 
-<p align="left">📚 Hello world! I'm Sophia, I'm 17 years old, I live in São Paulo and I'm currently studying Information Systems at Inteli<br><br>- I love math and logic exercises, I work very well in groups and I love learning new things<br>-In my free time I like to go to the gym and hang out with my family and friends<br>- My Inteli buddy It's Sophia, with the same name as me</p>
+🔹 **Linguagens**:JavaScript
+🔹 **Front-end**: HTML, CSS
+🔹 **Back-end**: Node.js
+🔹 **Ferramentas**: Git, GitHub, VS Code, Figma
+🔹 **Aprendendo**:Desenvolver linguagens
 
-###
-
-<h2 align="left"></h2>
-
-###
-
-<div align="left">
-</div>
-
-###
-<h2 align="left">Stats</h2>
-
-###
+## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sophiahochman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sophiahochman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=radical" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media.giphy.com/media/dsfqr6WWFy0q8MAG4C/giphy.gif?cid=ecf05e47ilvpv2dg5o9xb8qqd1jhzanujlw0vpbs8v6ixy16&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+## 🌟 Projetos em Destaque
 
-###
+🔹 [📌 Nome do Projeto 1](https://github.com/seuusuario/projeto1) - Pequena descrição do projeto.
+🔹 [📌 Nome do Projeto 2](https://github.com/seuusuario/projeto2) - Pequena descrição do projeto.
+🔹 [📌 Nome do Projeto 3](https://github.com/seuusuario/projeto3) - Pequena descrição do projeto.
 
-<div align="left">
-</div>
+---
 
-###
+## 🌍 Onde me encontrar
 
-<div align="left">
-  <a href="https://www.instagram.com/hp.sophi?igsh=MXU1czhzY3pidDk4Nw%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="sophia.hochman@sou.inteli.edu.org.br" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sophia-hochman-b821a4346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusuario)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seuusuario)
 
-###
+✉️ **Email:** [sophiahochman@gmail.com]
 
-<br clear="both">
+---
+
+> 🌱 "A tecnologia move o mundo, e eu estou pronta para fazer parte dessa evolução!" 🚀
